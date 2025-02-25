@@ -1,0 +1,42 @@
+== Modenhetsmodellen - oversikt over og beskrivelse av egne datasett [[modenhetsmodellen]]
+
+Denne modenhetsmodellen inneholder følgende akser som til sammen uttrykker virksomhetens modenhet mht. å holde oversikt over og å beskrive egne datasett:  
+
+*	**Prosedyrer**: I hvilken grad har virksomheten prosedyrer for å etablere og vedlikeholde oversikt over og beskrivelse av egne datasett? 
+**	0 = ikke vurdert. 
+**	1 = ingen: Ingen prosedyrer for arbeid med oversikt over og beskrivelse av datasett. 
+** 2 = ad hoc: Ingen vedtatte prosedyrer, men det brukes lokale prosedyrer på ad hoc basis (f.eks. prosjektbasert) for arbeid med oversikt over og beskrivelse av datasett. 
+**	3 = noen: Virksomheten har vedtatt noen (men ennå ikke alle nødvendige) prosedyrer for arbeid med oversikt over og beskrivelse av datasett. 
+**	4 = alle: Virksomheten har vedtatt alle nødvendige prosedyrer for arbeid med oversikt over og beskrivelse av datasett. 
+
+*	**Oversikt over datasett**: I hvilken grad har virksomheten etablert oversikt over egne datasett? 
+**	0 = ikke vurdert. 
+**	1 = ingen: Ingen oversikt over datasett.  
+**	2 = ad hoc: Det finnes oversikt over noen datasett. Oversikten er etablert på ad hoc basis (f.eks. prosjektbasert) og ikke i strukturert form.  
+** 3 = noen: Virksomheten har oversikt over noen (men ikke alle relevante) datasett. 
+Oversikten er i strukturert form og systematisk vedlikeholdt.  
+** 4 = alle: Virksomheten har oversikt over alle relevante datasett. Oversikten er i strukturert form og systematisk vedlikeholdt.  
+
+* **Tilgjengelighet av oversikt over datasett**: I hvilken grad har virksomheten tilgjengeliggjort oversikt over egne datasett for eksterne brukere? 
+**	0 = ikke vurdert. 
+**	1 = ingen: Ingen oversikt over datasett er tilgjengeliggjort for eksterne brukere.  
+** 2 = ad hoc: Oversikt over (noen) datasett er tilgjengeliggjort på ad hoc basis (f.eks. prosjektbasert) for eksterne brukere. 
+** 3 = noen: Oversikt over noen (men ikke alle relevante) datasett er tilgjengeliggjort for eksterne brukere, systematisk og vedlikeholdt. 
+** 4 = alle: Oversikt over alle virksomhetens relevante datasett er tilgjengeliggjort for eksterne brukere, systematisk og vedlikeholdt.  
+
+* **Beskrivelse av datasett**: I hvilken grad har virksomheten beskrivelse av egne datasett? 
+** 0 = ikke vurdert. 
+** 1 = ingen: Ingen av virksomhetens datasett er beskrevet. 
+** 2 = ad hoc: Noen av virksomhetens datasett er beskrevet, men på ad hoc basis (f.eks. prosjektbasert) og ikke i strukturert form.  
+** 3 = noen: Noen av (men ikke alle relevante) virksomhetens datasett er tilstrekkelig beskrevet. Beskrivelsen er i strukturert form og systematisk vedlikeholdt.  
+** 4 = alle: Alle virksomhetens relevante datasett er tilstrekkelig beskrevet. 
+Beskrivelsen er i strukturert form og systematisk vedlikeholdt.  
+
+*	**Tilgjengelighet av beskrivelse av datasett**: I hvilken grad har virksomheten tilgjengeliggjort beskrivelse av egne datasett for eksterne brukere? 
+**	0 = ikke vurdert. 
+**	1 = ingen: Ingen beskrivelse av virksomhetens datasett er tilgjengeliggjort for eksterne brukere. 
+**	2 = ad hoc: Beskrivelse av (noen) datasett er tilgjengeliggjort på ad hoc basis (f.eks. prosjektbasert) for eksterne brukere. 
+**	3 = noen: Beskrivelse av noen (men ikke alle relevante) datasett er tilgjengeliggjort for eksterne brukere, systematisk og vedlikeholdt.  
+** 4 = alle: Beskrivelse av alle relevante datasett i virksomheten er tilgjengeliggjort for eksterne brukere, systematisk og vedlikeholdt. 
+
+
