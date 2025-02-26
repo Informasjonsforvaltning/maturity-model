@@ -3,7 +3,7 @@
 === Generelt [[bruksanvisning-generelt]]
 
 *	Dersom modenheten varierer mellom ulike organisasjonsenheter i en virksomhet, bør en ikke bestrebe seg på å komme fram til en totalscore , men heller vurdere modenheten i hver enhet for seg. 
-* For oversikt over og beskrivelse av datasett, finnes det i dag ingen obligatoriske nasjonale standarder. Det overlates derfor til de vurderende virksomheter å avgjøre hva som er nødvendig og tilstrekkelig. Det mest relevante er å ta utgangspunkt i hva en selv ville trenge av oversikt og beskrivelse, for å kunne vurdere egnethet av et datasett beskrevet av andre. Dersom en ønsker å relatere vurderingen til en standard, kan en bruke Standard for beskrivelse av datasett og datakataloger som er en anbefalt forvaltningsstandard. I og med at det nå ikke er krav om å vurdere modenhet iht. noen standard, må en regne med at egen score kan reduseres senere dersom det en nå oppfatter som “tilstrekkelig”, ikke oppfyller kravene i en framtidig standard.  
+* For oversikt over og beskrivelse av datasett, finnes det i dag ingen obligatoriske nasjonale standarder. Det overlates derfor til de vurderende virksomheter å avgjøre hva som er nødvendig og tilstrekkelig. Det mest relevante er å ta utgangspunkt i hva en selv ville trenge av oversikt og beskrivelse, for å kunne vurdere egnethet av et datasett beskrevet av andre. Dersom en ønsker å relatere vurderingen til en standard, kan en bruke Standard for beskrivelse av datasett og datakataloger som er en anbefalt forvaltningsstandard. I og med at det nå ikke er krav om å vurdere modenhet iht. noen standard, må en regne med at egen score kan reduseres senere dersom det en nå oppfatter som «tilstrekkelig», ikke oppfyller kravene i en framtidig standard.  
 *	Det er noe avhengighet mellom aksene selv om den er forsøkt redusert. Avhengighetene er beskrevet mer detaljert nedenfor i tilknytning til de enkelte aksene.  
 
 === Ordforklaringer [[ordforklaring]]
@@ -11,7 +11,7 @@
 informasjonssikkerhetsarbeid.  
 **	Det er i denne modenhetsmodellen kun spørsmål om prosedyrer for å etablere og systematisk vedlikeholde oversikt over og beskrivelse av egne datasett.  
 ** **Vedtatte prosedyrer**: Prosedyrer som i henhold til en eller annen policy i virksomheten bør (valgfritt) eller skal (obligatorisk) brukes.  
-*	**Datasett** er definert som “samling av data”. I vår sammenheng kan vi også si at dette er data som er samlet/skapt for å gi informasjon om et spesifikt fenomen, f.eks. “Sysselsatte etter kjønn og alder”. Med formål datadeling, kan vi også si at et datasett er en samling av dataelementene som samlet kan deles med andre.  
+*	**Datasett** er definert som «samling av data». I vår sammenheng kan vi også si at dette er data som er samlet/skapt for å gi informasjon om et spesifikt fenomen, f.eks. «Sysselsatte etter kjønn og alder». Med formål datadeling, kan vi også si at et datasett er en samling av dataelementene som samlet kan deles med andre.  
 **	**Relevante datasett**: Det er opp til virksomheten selv å definere, ut fra gitte formål, hva som er relevante datasett. For å kunne følge modenhetsutviklingen over tid er det hensiktsmessig å være presis på hva som til enhver tid er definert som relevant. Dersom f.eks. formålet er informasjonsdeling, er alle datasett som virksomheten kan dele med andre, relevante.  
 *	**Oversikt over datasett**: En fortegnelse/liste over de datasett virksomheten har identifisert som relevante.  
 **	Hensikten er at andre skal kunne oppdage datasett som din virksomhet forvalter.  
@@ -26,21 +26,21 @@ informasjonssikkerhetsarbeid.
 *	**Tilgjengeliggjort**: Denne modenhetsmodellen fokuserer på tilgjengeliggjøring for eksterne brukere. Dette betyr at eksterne brukere skal kunne få fatt i oversikten/beskrivelsen. For å få full score langs tilgjengeliggjøringsaksene i denne modenhetsmodellen, skal tilgjengeliggjøring skje via et bestemt sted .  
 **	Det er foreløpig ingen nasjonale obligatoriske krav til formater, API osv. for tilgjengeliggjøring av oversikten/beskrivelsen.  
 ** DCAT-AP-NO anbefaler to tekniske standarder for tilgjengeliggjøring av oversikt over og beskrivelse av datasett: RDF/XML (https://www.w3.org/TR/rdf-syntax-grammar/) og JSON-LD (https://www.w3.org/TR/json-ld/).  
-*	**Virksomhet**: Ordet “virksomhet” i dette dokumentet dekker også “del av en virksomhet” eller ”virksomhetsenhet”, når hver virksomhetsenhet vurderes for seg.  
+*	**Virksomhet**: Ordet «virksomhet» i dette dokumentet dekker også «del av en virksomhet» eller »virksomhetsenhet», når hver virksomhetsenhet vurderes for seg.  
 
 === Aksen Prosedyrer  [[aksen-prosedyrer]]
 *	**Score 0** ( = ikke vurdert) brukes når det ikke er foretatt noen vurdering av denne aksen. 
 *	**Score 1** ( = ingen) brukes når det ikke er noen prosedyrer for arbeid med oversikt over og beskrivelse av datasett.  
 *	**Score 2** ( = ad hoc) brukes når det brukes egne ikke-vedtatte prosedyrer på ad hoc basis.  
-**	Eksempel på bruk av score 2: “Bare Prosjektet P (20xx-20yy) som brukte en egenutviklet metode for å beskrive hvilke datasett som var brukt i tjenestene som ble utviklet i prosjektet.” 
+**	Eksempel på bruk av score 2: «Bare Prosjektet P (20xx-20yy) som brukte en egenutviklet metode for å beskrive hvilke datasett som var brukt i tjenestene som ble utviklet i prosjektet.» 
 *	**Score 3** ( = noen) brukes når virksomheten har vedtatt minst én av de nødvendige prosedyrene for bruk i arbeid med oversikt over og beskrivelse av egne datasett.  
 **	For å komme fra score 2 til score 3: Virksomheten må selv vurdere hva som er nødvendig og tilstrekkelig av prosedyrer for å sikre at oversikt over og beskrivelse av egne datasett blir systematisk etablert og vedlikeholdt. Score 3 brukes når minst én av prosedyrene som er vurdert nødvendig er etablert og vedtatt tas i bruk i virksomheten.  
-** Eksempel på bruk av score 3: “Prosedyren R for beskrivelse av datasett er på plass og allerede brukt i fagområde F. Det mangler imidlertid prosedyrer for å ha en samlet oversikt over alle relevante datasett i hele virksomheten.” 
+** Eksempel på bruk av score 3: «Prosedyren R for beskrivelse av datasett er på plass og allerede brukt i fagområde F. Det mangler imidlertid prosedyrer for å ha en samlet oversikt over alle relevante datasett i hele virksomheten.» 
 *	**Score 4** ( = alle) brukes når alle prosedyrer som virksomheten har vurdert som nødvendige, er etablert og vedtatt tas i bruk i virksomheten.  
 ** For å komme fra score 3 til score 4: Virksomheten vurderer det slik at det som er vedtatt brukt av prosedyrer, er tilstrekkelig til at virksomheten klarer å holde en systematisk oppdatert oversikt over og beskrivelse av egne datasett.  
 **	Avhengig av kompleksiteten av virksomheten, kan avstanden mellom score 3 og 4 være liten for noen virksomheter og stor for noen andre. 
-** Eksempel på bruk av score 4: “Et rammeverk for informasjonsforvaltning som bl.a. 
-inneholder alle nødvendige prosedyrer er på plass. Dette er også en del av felles systemutviklingsmetode.”  
+** Eksempel på bruk av score 4: «Et rammeverk for informasjonsforvaltning som bl.a. 
+inneholder alle nødvendige prosedyrer er på plass. Dette er også en del av felles systemutviklingsmetode.»  
 
 === Aksen Oversikt over datasett [[aksen-dataoversikt]] 
 
@@ -48,14 +48,14 @@ inneholder alle nødvendige prosedyrer er på plass. Dette er også en del av fe
 *	**Score 0** ( = ikke vurdert) brukes når det ikke er foretatt noen vurdering av denne aksen. 
 *	**Score 1** ( = ingen) brukes når virksomheten har ingen oversikt over egne datasett.  
 *	**Score 2** ( = ad hoc) brukes når det finnes oversikt over (noen) datasett i virksomheten, men oversikten er ikke i strukturert form og ikke vedlikeholdt systematisk.  
-**	Eksempel på bruk av score 2: “Vi har diverse oversikter over datasett, men ingen enhetlig dokumentasjon eller et felles sted hvor dette finnes.”  
+**	Eksempel på bruk av score 2: «Vi har diverse oversikter over datasett, men ingen enhetlig dokumentasjon eller et felles sted hvor dette finnes.»  
 *	**Score 3** ( = noen) brukes når virksomheten har oversikt over noen (men ikke alle relevante) datasett, og at oversikten er i strukturert form og systematisk vedlikeholdt. 
 **	For å komme fra score 2 til score 3: Virksomheten har oversikt over minst ett av sine datasett, og oversikten er i en strukturert form og systematisk vedlikeholdt.  
-** Eksempel på bruk av score 3: “Fagområde F bruker DCAT-AP-NO som mal for å holde oversikt over alle sine datasett, og oversikten gjennomgås årlig. Mangler oversikt over datasett fra andre fagområder.” 
+** Eksempel på bruk av score 3: «Fagområde F bruker DCAT-AP-NO som mal for å holde oversikt over alle sine datasett, og oversikten gjennomgås årlig. Mangler oversikt over datasett fra andre fagområder.» 
 *	**Score 4** ( = alle) brukes når virksomheten har oversikt over alle relevante datasett, og at oversikten er i strukturert form og systematisk vedlikeholdt. 
 **	For å komme fra score 3 til score 4: Score 4 brukes når virksomheten mener å ha tilstrekkelig oversikt over alle sine relevante datasett, og at oversikten er i strukturert form og systematisk vedlikeholdt.  
 ** Avhengig av kompleksiteten av virksomheten, og hva virksomheten selv vurderer som relevante datasett, kan avstanden mellom score 3 og 4 være liten for noen virksomheter og stor for noen andre.  
-** Eksempel på bruk av score 4: “I forbindelse med risikovurdering i fjor kartla vi alle datasett i hele virksomheten. Oversikten er nå utformet i samsvar med DCAT-AP-NO. Seksjon S har fått ansvar for å oppdatere oversikten årlig.” 
+** Eksempel på bruk av score 4: «I forbindelse med risikovurdering i fjor kartla vi alle datasett i hele virksomheten. Oversikten er nå utformet i samsvar med DCAT-AP-NO. Seksjon S har fått ansvar for å oppdatere oversikten årlig.» 
 
 === Aksen Tilgjengelighet av oversikt over datasett  [[aksen-tilgjengelighet-dataoversikt]]
 *	Det er tilgjengeliggjøring av oversikt over datasett denne aksen handler om, ikke tilgjengeliggjøring av selve datasettene. Det er dessuten tilgjengelighet for eksterne brukere det her spørres om.  
@@ -66,15 +66,15 @@ inneholder alle nødvendige prosedyrer er på plass. Dette er også en del av fe
 *	**Score 2** ( = ad hoc) brukes når (deler av eksisterende) oversikt er tilgjengeliggjort for eksterne brukere, dessuten kun på ad hoc basis.  
 **	Denne lar seg greit kombinere med score 2, 3 og 4 for aksen Oversikt over datasett.  
 ** Score 2 kan brukes når deler av (men ikke nødvendigvis hele) den eksisterende oversikten er tilgjengeliggjort på ad hoc basis, for eksterne brukere.  
-** Eksempel på bruk av score 2: “Bare Prosjektet P (20xx-20yy) som beskrev hvilke datasett som inngikk i tjenestene som ble utviklet i prosjektet, publiserte oversikten sin eksternt. Oversikten er ikke blitt oppdatert siden da.” 
+** Eksempel på bruk av score 2: «Bare Prosjektet P (20xx-20yy) som beskrev hvilke datasett som inngikk i tjenestene som ble utviklet i prosjektet, publiserte oversikten sin eksternt. Oversikten er ikke blitt oppdatert siden da.» 
 *	**Score 3** ( = noen) brukes når virksomheten systematisk tilgjengeliggjør oversikten over noen (men ikke alle relevante) datasett for eksterne brukere.  
 **	For å komme fra score 2 til score 3: Det holder med at oversikt over minst ett datasett er systematisk tilgjengeliggjort for eksterne brukere.  
 ** Denne lar seg greit kombinere med score 3 og 4 for aksen Oversikt over datasett, mens kombinasjon med score 2 virker unaturlig.  
-** Eksempel på bruk av score 3: “Fagområde F har de siste 3 årene publisert årlig oversikten over datasett de forvalter, i samsvar med DCAT-AP-NO.” 
+** Eksempel på bruk av score 3: «Fagområde F har de siste 3 årene publisert årlig oversikten over datasett de forvalter, i samsvar med DCAT-AP-NO.» 
 *	**Score 4** ( = alle) brukes når virksomheten systematisk tilgjengeliggjør oversikten over alle sine relevante datasett for eksterne brukere.  
 **	For å komme fra score 3 til score 4: Virksomheten vurderer det slik at oversikten over alle relevante datasett fra virksomheten er systematisk tilgjengeliggjort for eksterne brukere.  
 ** Kun kombinasjon med score 4 for aksen Oversikt over datasett er naturlig.  
-** Eksempel på bruk av score 4: “I forbindelse med risikovurdering i fjor kartla vi alle datasett i hele virksomheten. Oversikten er nå utformet i samsvar med DCAT-AP-NO og publisert på hjemmesiden. Seksjon S har fått ansvar for å oppdatere og publisere oversikten årlig.” 
+** Eksempel på bruk av score 4: «I forbindelse med risikovurdering i fjor kartla vi alle datasett i hele virksomheten. Oversikten er nå utformet i samsvar med DCAT-AP-NO og publisert på hjemmesiden. Seksjon S har fått ansvar for å oppdatere og publisere oversikten årlig.» 
 
 === Aksen Beskrivelse av datasett [[aksen-datasettbeskrivelse]]
 *	Se Veileder for orden i eget hus, for forskjell og sammenheng mellom Oversikt over datasett og Beskrivelse av datasett.  
@@ -82,13 +82,13 @@ inneholder alle nødvendige prosedyrer er på plass. Dette er også en del av fe
 * **Score 1** ( = ingen) brukes når virksomheten ikke har noen beskrivelse av egne datasett.  
 *	**Score 2** ( = ad hoc) brukes når virksomheten har beskrevet (noen) datasett, men kun på ad hoc basis. 
 **	Score 2 kan brukes når minst ett datasett er beskrevet, men ingen i strukturert form og systematisk vedlikeholdt. 
-** Eksempel på bruk av score 2: “Ifm. ulike samhandlingsprosjekter med andre etater har vi beskrevet datasettene som vi utveksler andre med, i ulike former (Word, Excel, UML, XML osv.).” 
+** Eksempel på bruk av score 2: «Ifm. ulike samhandlingsprosjekter med andre etater har vi beskrevet datasettene som vi utveksler andre med, i ulike former (Word, Excel, UML, XML osv.).» 
 *	**Score 3** ( = noen) brukes når virksomheten har noen av sine relevante datasett beskrevet, i strukturert form og systematisk vedlikeholdt.  
 **	For å komme fra score 2 til score 3: Minst ett (selv om ikke alle) datasett er beskrevet i strukturert form og systematisk vedlikeholdt.  
-** Eksempel på bruk av score 3: “Fagområde F var den første som brukte malen M til å beskrive alle sine datasett, samt prosedyre R for å sikre at datasettbeskrivelsene blir oppdatert årlig. Mangler tilsvarende beskrivelse fra andre fagområder.” 
+** Eksempel på bruk av score 3: «Fagområde F var den første som brukte malen M til å beskrive alle sine datasett, samt prosedyre R for å sikre at datasettbeskrivelsene blir oppdatert årlig. Mangler tilsvarende beskrivelse fra andre fagområder.» 
 *	**Score 4** ( = alle) brukes når virksomheten har beskrevet alle sine relevante datasett, i strukturert form og systematisk vedlikeholdt.  
 **	For å komme fra score 3 til score 4: Alle datasett som virksomheten har vurdert som relevante datasett, er tilstrekkelig beskrevet i strukturert form og systematisk vedlikeholdt.  
-** Eksempel på bruk av score 4: “I forbindelse med risikovurdering i fjor kartla vi alle datasett i hele virksomheten. Datasettene i oversikten er nå også beskrevet i samsvar med malen M. Seksjon S har fått ansvar for årlig oppdatering av oversikten og beskrivelsene i oversikten.” 
+** Eksempel på bruk av score 4: «I forbindelse med risikovurdering i fjor kartla vi alle datasett i hele virksomheten. Datasettene i oversikten er nå også beskrevet i samsvar med malen M. Seksjon S har fått ansvar for årlig oppdatering av oversikten og beskrivelsene i oversikten.» 
 
 === Aksen Tilgjengelighet av beskrivelse av datasett [[aksen-tilgjengelighet-datasettbeskrivelse]]
 *	Det er tilgjengeliggjøring av beskrivelse av datasett denne aksen handler om, ikke tilgjengeliggjøring av selve datasettene. Det er dessuten tilgjengelighet for eksterne brukere det her spørres om.  
@@ -99,15 +99,15 @@ inneholder alle nødvendige prosedyrer er på plass. Dette er også en del av fe
 *	**Score 2** ( = ad hoc) brukes når virksomheten har tilgjengeliggjort beskrivelse av noen (men ikke alle relevante) datasett, for eksterne brukere, kun på ad hoc basis.  
 **	Score 2 kan brukes når beskrivelse av minst ett datasett er tilgjengeliggjort for eksterne brukere på ad hoc basis.  
 ** Denne lar seg greit kombinere med score 2, 3 og 4 for aksen Beskrivelse av datasett.  
-** Eksempel på bruk av score 2: “Bare Prosjektet P (20xx-20yy) som beskrev hvilke datasett som inngikk i tjenestene som ble utviklet i prosjektet, publiserte beskrivelsene eksternt. Oversikten med beskrivelsene er ikke blitt oppdatert siden da.” 
+** Eksempel på bruk av score 2: «Bare Prosjektet P (20xx-20yy) som beskrev hvilke datasett som inngikk i tjenestene som ble utviklet i prosjektet, publiserte beskrivelsene eksternt. Oversikten med beskrivelsene er ikke blitt oppdatert siden da.» 
 *	**Score 3** ( = noen) brukes når virksomheten systematisk tilgjengeliggjør beskrivelse av noen (men ikke alle relevante) datasett for eksterne brukere.  
 **	For å komme fra score 2 til score 3: Når beskrivelse av minst ett datasett er systematisk tilgjengeliggjort for eksterne brukere.  
 ** Denne lar seg greit kombinere med score 3 og 4 for aksen Beskrivelse av datasett, mens kombinasjon med score 2 virker unaturlig.  
-** Eksempel på bruk av score 3: “Fagområde F var den første som brukte malen M til å beskrive alle sine datasett som også ble publisert på hjemmesiden, samt prosedyre R for å sikre at datasettbeskrivelsene blir oppdatert og publisert årlig. Mangler tilsvarende beskrivelse fra andre fagområder.” 
+** Eksempel på bruk av score 3: «Fagområde F var den første som brukte malen M til å beskrive alle sine datasett som også ble publisert på hjemmesiden, samt prosedyre R for å sikre at datasettbeskrivelsene blir oppdatert og publisert årlig. Mangler tilsvarende beskrivelse fra andre fagområder.» 
 *	**Score 4** ( = alle) brukes når virksomheten systematisk tilgjengeliggjør beskrivelse av alle sine relevante datasett for eksterne brukere.  
 **	For å komme fra score 3 til score 4: Virksomheten vurderer det slik at beskrivelse av alle relevante datasett fra virksomheten er systematisk tilgjengeliggjort for eksterne brukere.  
 ** Kun kombinasjon med score 4 for aksen Beskrivelse av datasett er naturlig.  
-** Eksempel på bruk av score 4: “I forbindelse med risikovurdering i fjor kartla vi alle datasett i hele virksomheten. Oversikten og beskrivelsen av datasettene i oversikten er publisert på hjemmesiden, i henhold til DCAT-AP-NO hhv. malen M. Seksjon S har fått ansvar for å oppdatere og publisere oversikten og datasettbeskrivelsene årlig.” 
+** Eksempel på bruk av score 4: «I forbindelse med risikovurdering i fjor kartla vi alle datasett i hele virksomheten. Oversikten og beskrivelsen av datasettene i oversikten er publisert på hjemmesiden, i henhold til DCAT-AP-NO hhv. malen M. Seksjon S har fått ansvar for å oppdatere og publisere oversikten og datasettbeskrivelsene årlig.» 
 
 === Mal for dokumentasjon av modenhetsvurdering [[mal-for-dokumentasjon]]
 
