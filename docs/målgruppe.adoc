@@ -1,7 +1,9 @@
 == Modenhetsmodellens målgruppe [[målgruppe]]
 
-Modellens målgruppe er virksomhetene selv. De aktuelle virksomhetene varierer betraktelig i størrelse og organisering, og det er derfor vanskelig å være veldig konkret i beskrivelsen av de to aktuelle målgruppene i virksomhetene: de som gjør selve modenhetsvurderingen, og de som skal bruke vurderingen videre i arbeidet med informasjonsforvaltning i virksomheten. Generelt gis følgende råd:  
+Modellens målgruppe er virksomhetene selv. De aktuelle virksomhetene varierer betraktelig i størrelse og organisering, og det er derfor vanskelig å være veldig konkret i beskrivelsen av de to aktuelle målgruppene i virksomhetene: de som gjør selve modenhetsvurderingen, og de som skal bruke vurderingen videre i arbeidet med informasjonsforvaltning i virksomheten. 
+
+Generelt gis følgende råd:  
 
 * Gruppen som skal stå for modenhetsvurderingen, bør ha representanter med kompetanse innenfor både virksomhetens kjerneaktiviteter og IT. I virksomheter med arkitekter, f.eks. forretnings- og informasjonsarkitekter, vil disse naturlig inngå i en slik gruppe.  
 
-*	Brukerne av modenhetsvurderingen bør være de som har ansvar for og myndighet til å sørge for “orden i eget hus”. Dette er i mange tilfeller linjen/ledelsen, men kan også i noen tilfeller være en bestemt organisatorisk enhet. 
+*	Brukerne av modenhetsvurderingen bør være de som har ansvar for og myndighet til å sørge for «orden i eget hus». Dette er i mange tilfeller linjen/ledelsen, men kan også i noen tilfeller være en bestemt organisatorisk enhet. 
