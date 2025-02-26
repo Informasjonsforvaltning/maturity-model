@@ -25,7 +25,7 @@ informasjonssikkerhetsarbeid.
 *	[[systematisk-vedlikeholdt]]**Systematisk vedlikeholdt (eller tilgjengeliggjort)**: Oversikt over og/eller beskrivelse av datasett er ikke blitt etablert (eller tilgjengeliggjort) som en engangsjobb, men det er rutiner som sikrer at oversikten/beskrivelsen blir vedlikeholdt (eller tilgjengeliggjort).  
 *	[[tilgjengeliggjort]]**Tilgjengeliggjort**: Denne modenhetsmodellen fokuserer på tilgjengeliggjøring for eksterne brukere. Dette betyr at eksterne brukere skal kunne få fatt i oversikten/beskrivelsen. For å få full score langs tilgjengeliggjøringsaksene i denne modenhetsmodellen, skal tilgjengeliggjøring skje via et bestemt sted.(_#@@@ NB!#_) 
 **	Det er foreløpig ingen nasjonale obligatoriske krav til formater, API osv. for tilgjengeliggjøring av oversikten/beskrivelsen. (_#@@@ NB!#_)
-** https://data.norge.no/specification/dcat-ap-no[DCAT-AP-NO  &#x29C9;, window="_blank", role="ext-link"] anbefaler to tekniske standarder for tilgjengeliggjøring av oversikt over og beskrivelse av datasett: RDF/XML (https://www.w3.org/TR/rdf-syntax-grammar/) og JSON-LD (https://www.w3.org/TR/json-ld/).  (_#@@@ NB!#_)
+** https://data.norge.no/specification/dcat-ap-no[DCAT-AP-NO  &#x29C9;, window="_blank", role="ext-link"] anbefaler to tekniske standarder for tilgjengeliggjøring av oversikt over og beskrivelse av datasett: RDF/XML (https://www.w3.org/TR/rdf-syntax-grammar/) og JSON-LD (https://www.w3.org/TR/json-ld/).  (__#@@@ NB!#__)
 *	**Virksomhet**: Ordet «virksomhet» i dette dokumentet dekker også «del av en virksomhet» eller »virksomhetsenhet», når hver virksomhetsenhet vurderes for seg.  
 
 === Aksen Prosedyrer  [[aksen-prosedyrer]]
